@@ -1,7 +1,7 @@
 [{
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
-      "namespace": "com.example.tram_wallet_clone",
+      "namespace": "android_app",
       "package_name": "com.example.tram_wallet_clone",
       "sha256_cert_fingerprints":
       ["73:D7:AF:2F:CA:D2:F7:F9:C1:57:9C:AB:F7:1C:88:C5:87:5B:35:6D:EE:CE:F4:D6:B4:2A:34:C0:CD:3A:02:72"]
